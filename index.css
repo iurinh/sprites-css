@@ -1,0 +1,40 @@
+.neku{ 
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    background-image: url(Mobile_-_The_World_Ends_With_You_Solo_Remix_-_Neku.png);
+    background-repeat: no-repeat;
+}
+
+.sprite1{
+    clip: rect(95px,100px,204px,0px);
+    background-position: -207px 3px;
+}
+.sprite2{
+    clip: rect(95px,100px,204px,0px);
+    background-position: -111px -9px;
+}
+.sprite3{
+    clip: rect(95px,105px,193px,0px);
+    background-position: -7px 0;
+}
+.sprite4{
+    clip: rect(95px,114px,203px,0px);
+    background-position: 0px -98px;
+}
+.sprite5{
+    clip: rect(93px,90px,204px,17px);
+    background-position: -367px -318px;
+}
+.sprite6{
+    clip: rect(93px,90px,204px,0px);
+    background-position: -114px -214px;
+}
+.sprite7{
+    clip: rect(96px,106px,204px,0px);
+    background-position: -113px -322px;
+}
+.sprite8{
+    clip: rect(93px,109px,204px,0px);
+    background-position: -5px -318px;
+}

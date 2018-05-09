@@ -1,3 +1,7 @@
+.container{
+    margin: 30% 44%;
+}
+
 .neku{ 
     height: 100%;
     width: 100%;
@@ -7,34 +11,34 @@
 }
 
 .sprite1{
-    clip: rect(95px,100px,204px,0px);
-    background-position: -207px 3px;
+    clip: rect(0px,100px,109px,0px);
+    background-position: -207px -92px;
 }
 .sprite2{
-    clip: rect(95px,100px,204px,0px);
-    background-position: -111px -9px;
+    clip: rect(0px,100px,109px,0px);
+    background-position: -111px -104px;
 }
 .sprite3{
-    clip: rect(95px,105px,193px,0px);
-    background-position: -7px 0;
+    clip: rect(0px,105px,98px,0px);
+    background-position: -7px -95;
 }
 .sprite4{
-    clip: rect(95px,114px,203px,0px);
-    background-position: 0px -98px;
+    clip: rect(0px,114px,108px,0px);
+    background-position: 0px -193px;
 }
 .sprite5{
-    clip: rect(93px,90px,204px,17px);
-    background-position: -367px -318px;
+    clip: rect(0px,90px,109px,17px);
+    background-position: -367px -413px;
 }
 .sprite6{
-    clip: rect(93px,90px,204px,0px);
-    background-position: -114px -214px;
+    clip: rect(0px,90px,109px,0px);
+    background-position: -114px -309px;
 }
 .sprite7{
-    clip: rect(96px,106px,204px,0px);
-    background-position: -113px -322px;
+    clip: rect(0px,106px,109px,0px);
+    background-position: -113px -418px;
 }
 .sprite8{
-    clip: rect(93px,109px,204px,0px);
-    background-position: -5px -318px;
+    clip: rect(0px,109px,109px,0px);
+    background-position: -5px -413px;
 }
